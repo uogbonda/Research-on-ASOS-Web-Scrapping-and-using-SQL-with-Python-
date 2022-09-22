@@ -9,11 +9,11 @@ Exploring the ASOS information on female fast sells wears.
 * [SQL + Python](#sql-+-python)
 
 ## General info
-Using a Web data extraction from ASOS website:
-* Know the first 20 pages of products on fast sales for female wear.
-* what differences are from Previous price to Current price.
+Using a Web data extraction from the ASOS website:
+* Using the first 20 pages of products on fast sales for female wear.
+* what differences are between the Previous price to the Current price?
 * Know the Discount in percentage.
-* What are the top 10 high discounted products?
+* What are the top 10 highly discounted products?
 * What are the top 10 least discounted products?
 
 
@@ -27,6 +27,6 @@ Project performed on:
 ## SQL + Python
 Used SQLite3 on the Jupyter Notebook. But first;
 * After web data extraction, stored the data as an 'xlsx'.
-* Imported the data into JUpyter Notebook using pandas in Python.
+* Imported the data into Jupyter Notebook using pandas in Python.
 * Connected to SQLite and commenced my analysis.
 
